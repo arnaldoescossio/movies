@@ -1,0 +1,3 @@
+com\moviecompany\movies\cucumber\CucumberIntegrationTest.class
+com\moviecompany\movies\cucumber\StepDefinition.class
+com\moviecompany\movies\MoviesApplicationTests.class

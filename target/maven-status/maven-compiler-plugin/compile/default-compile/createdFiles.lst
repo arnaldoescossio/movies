@@ -1,0 +1,9 @@
+com\moviecompany\movies\MoviesApplication.class
+com\moviecompany\movies\service\MovieService.class
+com\moviecompany\movies\model\Movie.class
+com\moviecompany\movies\service\ReviewService.class
+com\moviecompany\movies\rest\MovieController.class
+com\moviecompany\movies\rest\ReviewController.class
+com\moviecompany\movies\repository\MovieRepository.class
+com\moviecompany\movies\model\Review.class
+com\moviecompany\movies\repository\ReviewRepository.class
